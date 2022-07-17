@@ -18,7 +18,7 @@ public class TaskManager : MonoBehaviour {
 
     public void DefeatEnemy() {
         _enemyCount++;
-        if (_enemyCount >= 3) {
+        if (_enemyCount >= 6) {
             isMissionCompleted = true;
             Invoke(nameof(MissionCompletedAudio), 1.3f);
         }

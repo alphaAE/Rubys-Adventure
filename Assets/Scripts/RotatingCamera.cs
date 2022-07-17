@@ -16,13 +16,14 @@ public class RotatingCamera : MonoBehaviour {
 
     void Update() {
         transform.position = _player.position;
-        Rotate();
+        // Rotate();
     }
 
     void Rotate() {
         if (Input.GetKeyDown(KeyCode.Q) && !_isRotating) {
             StartCoroutine(RotateAround(-45, _rotateTime));
         }
+
         if (Input.GetKeyDown(KeyCode.E) && !_isRotating) {
             StartCoroutine(RotateAround(45, _rotateTime));
         }

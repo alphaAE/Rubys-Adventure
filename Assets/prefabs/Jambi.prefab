@@ -80,7 +80,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.21
-  m_Text: "\u563F\uFF0CRuby\n\u5E2E\u6211\u4FEE\u7406\u4E0B\u90A3\u4E9B\u611A\u8822\u7684\u673A\u5668\u4EBA"
+  m_Text: "\u563F\uFF0CRuby\n\u62FF\u7740\u8FD9\u4E9B\u9F7F\u8F6E\uFF0C\u5E2E\u6211\u4FEE\u7406\u4E0B\u90A36\u4E2A\u611A\u8822\u7684\u673A\u5668\u4EBA"
 --- !u!114 &3259902541656149912
 MonoBehaviour:
   m_ObjectHideFlags: 0
