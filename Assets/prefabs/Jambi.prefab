@@ -68,7 +68,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 25a91235f4ca0f6489e55732ba749863, type: 3}
     m_FontSize: 30
     m_FontStyle: 1
     m_BestFit: 0
@@ -438,9 +438,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.5858499, y: -0.20651662}
+  m_Offset: {x: 0.09767461, y: 0.2088604}
   serializedVersion: 2
-  m_Radius: 1.3171463
+  m_Radius: 2.2206986
 --- !u!1 &3259902543233373056
 GameObject:
   m_ObjectHideFlags: 0
@@ -687,7 +687,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 25a91235f4ca0f6489e55732ba749863, type: 3}
     m_FontSize: 67
     m_FontStyle: 0
     m_BestFit: 0
